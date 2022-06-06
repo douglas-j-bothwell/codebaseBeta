@@ -25,7 +25,7 @@ pipeline:
                                     source:
                                         type: Inline
                                         spec:
-                                            script: echo "hello from 1.0.1"
+                                            script: echo "hello from main"
                                     environmentVariables: []
                                     outputVariables: []
                                     executionTarget: {}
